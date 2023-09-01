@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" alt="Welcome to my profile!" src="https://github.com/wAngeloow/wAngeloow/blob/main/header.png">
+  <img width="100%" alt="Welcome to my profile!" src="https://github.com/wAngeloow/wAngeloow/blob/main/img/header.png">
 </div>
 
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 
 <table align="right">
- <tr><td><a href="https://github.com/wAngeloow/wAngeloow/blob/main/README.md"><img src="./br_flag.png" alt="Brazilian Flag" width="17px"> Portuguese</a></td></tr>
- <tr><td><a href="https://github.com/wAngeloow/wAngeloow/blob/main/README.english.md"><img src="./us_flag.png" alt="US Flag" width="17px"> English</a></td></tr>
+ <tr><td><a href="https://github.com/wAngeloow/wAngeloow/blob/main/README.md"><img src="./img/br_flag.png" alt="Brazilian Flag" width="17px"> Portuguese</a></td></tr>
+ <tr><td><a href="https://github.com/wAngeloow/wAngeloow/blob/main/README.english.md"><img src="./img/us_flag.png" alt="US Flag" width="17px"> English</a></td></tr>
 </table>
 <br>
 <br>
@@ -48,5 +48,5 @@
 </div>
 
 <div align="center" >
-  <img alt="Footer Image" width="100%" src="https://github.com/wAngeloow/wAngeloow/blob/main/footer.png">
+  <img alt="Footer Image" width="100%" src="https://github.com/wAngeloow/wAngeloow/blob/main/img/footer.png">
 </div>
