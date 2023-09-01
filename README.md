@@ -1,7 +1,4 @@
-<div align="center" 
- img width="100%" alt="welcome to my profile!" src="https://github.com/wAngeloow/wAngeloow/blob/main/assets/header.png">
-
- </div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/wAngeloow/wAngeloow/blob/main/header.png"></div>
 
 ### Hi there 👋
 
@@ -37,3 +34,5 @@ Here are some ideas to get you started:
        <img alt="Obrigada pela visita!" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%230000CD&size=24&center=true&vCenter=true&width=300&lines=Obrigada+pela+visita!" >
     </a>
 </div>
+
+<div align="center" ><img alt="" width="100%" src="https://github.com/wAngeloow/wAngeloow/blob/main/footer.png"></div>
