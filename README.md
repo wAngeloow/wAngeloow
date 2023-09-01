@@ -1,4 +1,4 @@
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/wAngeloow/wAngeloow/blob/main/header.png"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/wAngeloow/wAngeloow/blob/main/header2.png"></div>
 
 ### Olá, eu sou o Angelo 👋
 
