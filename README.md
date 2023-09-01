@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **wAngeloow/wAngeloow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,10 +12,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 [![Logo do LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-gabriel-bassani-donada-991329274/)
 [![Logo do Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/wangeloow)
 [![Logo do Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wangeloow@gmail.com)
+
+<div align="center">
+  
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31b4yqev7knyajnjrjart5244uyy)
+  
+</div>
 
 <img src="https://imgur.com/rilHVxA.png"/> 
