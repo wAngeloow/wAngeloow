@@ -27,3 +27,8 @@ Here are some ideas to get you started:
 </div>
 
 <img src="https://imgur.com/rilHVxA.png"/> 
+
+<div align="center">
+       <img alt="Obrigada pela visita!" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%230000CD&size=24&center=true&vCenter=true&width=300&lines=Obrigada+pela+visita!" >
+    </a>
+</div>
