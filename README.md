@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <table align="right">
- <tr><td><a href="https://github.com/wAngeloow/wAngeloow/blob/main/README.md"><img src="./assets/us_flag.png" alt="Bandeira dos Estados Unidos da América" width="17px"> English</a></td></tr>
- <tr><td><a href="https://github.com/wAngeloow/wAngeloow/blob/main/README-pt-br.md"><img src="./assets/br_flag.png" alt="Bandeira do Brasil" width="17px"> Português</a></td></tr>
+ <tr><td><a href="https://github.com/wAngeloow/wAngeloow/blob/main/README.en-us.md"><img src="./us_flag.png" alt="Bandeira dos Estados Unidos da América" width="17px"> English</a></td></tr>
+ <tr><td><a href="https://github.com/wAngeloow/wAngeloow/blob/main/README.md"><img src="./br_flag.png" alt="Bandeira do Brasil" width="17px"> Português</a></td></tr>
 </table>
 
 <div align="center">
