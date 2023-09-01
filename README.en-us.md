@@ -1,4 +1,4 @@
-### Olá, sou o Angelo 👋
+### Hello, I'm Angelo 👋
 
 **wAngeloow/wAngeloow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
