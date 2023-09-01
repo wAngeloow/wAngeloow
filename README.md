@@ -1,7 +1,7 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/wAngeloow/wAngeloow/blob/main/header2.png"></div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+eu+sou+o+Angelo;Tenho+18+anos&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=8000FF" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+eu+sou+o+Angelo;Eu+sou+brasileiro;Tenho+18+anos&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=8000FF" alt="Example Usage - README Typing SVG">
 </p>
 
 ### Olá, eu sou o Angelo 👋
@@ -38,10 +38,11 @@ Here are some ideas to get you started:
 
 <div align="center">
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aenq&theme=dark&show_icons=true&layout=compact&langs_count=7)
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wAngeloow&theme=dark" width=750  alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wAngeloow&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117&theme=midnight_purple" alt="Top Langs" style="border: 1px solid white;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wAngeloow&theme=midnight_purple" width=750  alt="stats graph"/>
 
 </div>
+
 
 ###
 
@@ -58,8 +59,6 @@ Here are some ideas to get you started:
 [![Logo do Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wangeloow@gmail.com)
 ###
 </div>
-
-<img src="https://imgur.com/rilHVxA.png"/> 
 
 <div align="center">
        <img alt="Obrigada pela visita!" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%238000FF&size=24&center=true&vCenter=true&width=300&lines=Obrigada+pela+visita!" >
