@@ -1,3 +1,8 @@
+<div align="center" 
+ img width="100%" alt="welcome to my profile!" src="https://github.com/wAngeloow/wAngeloow/blob/main/assets/header.png">
+
+ </div>
+
 ### Hi there 👋
 
 **wAngeloow/wAngeloow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
