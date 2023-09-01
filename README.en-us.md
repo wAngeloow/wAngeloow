@@ -1,4 +1,6 @@
-### Hello, I'm Angelo 👋
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/wAngeloow/wAngeloow/blob/main/header.png"></div>
+
+### Olá, eu sou o Angelo 👋
 
 **wAngeloow/wAngeloow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <table align="right">
- <tr><td><a href="https://github.com/wAngeloow/wAngeloow/blob/main/README.md"><img width="17px"> English</a></td></tr>
- <tr><td><a href="https://github.com/wAngeloow/wAngeloow/blob/main/README-pt-br.md"><img width="17px"> Português</a></td></tr>
+ <tr><td><a href="https://github.com/wAngeloow/wAngeloow/blob/main/README.en-us.md"><img src="./us_flag.png" alt="Bandeira dos Estados Unidos da América" width="17px"> English</a></td></tr>
+ <tr><td><a href="https://github.com/wAngeloow/wAngeloow/blob/main/README.md"><img src="./br_flag.png" alt="Bandeira do Brasil" width="17px"> Português</a></td></tr>
 </table>
 
 <div align="center">
@@ -27,3 +29,10 @@ Here are some ideas to get you started:
 </div>
 
 <img src="https://imgur.com/rilHVxA.png"/> 
+
+<div align="center">
+       <img alt="Thanks for your visit!" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%230000CD&size=24&center=true&vCenter=true&width=300&lines=Obrigada+pela+visita!" >
+    </a>
+</div>
+
+<div align="center" ><img alt="" width="100%" src="https://github.com/wAngeloow/wAngeloow/blob/main/footer.png"></div>
