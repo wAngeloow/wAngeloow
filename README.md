@@ -48,12 +48,6 @@
   <img alt="Obrigada pela visita!" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%238000FF&size=24&center=true&vCenter=true&width=300&lines=Obrigado+pela+visita!" >
 </div>
 
-<div align="center">
-
-  ![Snake animation](https://github.com/wAngeloow/wAngeloow/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
 <div align="center" >
   <img alt="Imagem do footer" width="100%" src="https://github.com/wAngeloow/wAngeloow/blob/main/footer.png">
 </div>
