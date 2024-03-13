@@ -18,6 +18,7 @@
 ###
 
 - 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi.
+- 💼 Também trabalho em projetos pessoais para meu portifólio.
 - 📧 Entre em contato: wangeloow@gmail.com
 
 <h2 align="center">Estatísticas</h2>
