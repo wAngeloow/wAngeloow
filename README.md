@@ -17,7 +17,7 @@
 
 ###
 
-- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi.
+- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 - 💼 Também trabalho em projetos pessoais para meu portifólio.
 - 📧 Entre em contato: wangeloow@gmail.com
 
