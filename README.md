@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+meu+nome+é+Angelo;Eu tenho 18 anos;E+sou+brasileiro.;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=8000FF" alt="Letreiro animado">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+meu+nome+é+Angelo;Eu tenho 19 anos;E+sou+brasileiro.;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=8000FF" alt="Letreiro animado">
 </p>
 
 <table align="right">
@@ -17,8 +17,7 @@
 
 ###
 
-- 💼 Atualmente estou trabalhando em projetos pessoais para meu portfólio.
-- 📚 Também estou estudando front-end e inglês.
+- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi.
 - 📧 Entre em contato: wangeloow@gmail.com
 
 <h2 align="center">Estatísticas</h2>
