@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+my+name+is+Angelo%3B+I'm+18+years+old%3B+And+I'm+Brazilian.&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=8000FF" alt="Animated text">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+my+name+is+Angelo%3B+I'm+19+years+old%3B+And+I'm+Brazilian.&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=8000FF" alt="Animated text">
 </p>
 
 <table align="right">
@@ -17,8 +17,8 @@
 
 ###
 
-- 💼 I'm currently working on personal projects for my portfolio.
-- 📚 I'm also studying front-end and English.
+- 📚 I'm currently studying Systems Analysis and Development at Uniasselvi.
+- 💼 I also work on personal projects for my portfolio.
 - 📧 Contact me: wangeloow@gmail.com
 
 <h2 align="center">Statistics</h2>
