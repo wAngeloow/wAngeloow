@@ -17,7 +17,7 @@
 
 ###
 
-- 📚 I'm currently studying Systems Analysis and Development at Uniasselvi.
+- 📚 I'm currently studying Systems Analysis and Development.
 - 💼 I also work on personal projects for my portfolio.
 - 📧 Contact me: wangeloow@gmail.com
 
