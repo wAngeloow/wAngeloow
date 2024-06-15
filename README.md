@@ -19,7 +19,7 @@
 
 - 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 - 💼 Também trabalho em projetos pessoais para meu portifólio.
-- 📧 Entre em contato: wangeloow@gmail.com
+- 📧 Entre em contato: angelodonada@gmail.com
 
 <h2 align="center">Estatísticas</h2>
 
@@ -41,7 +41,7 @@
   
 [![Logo do LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-gabriel-bassani-donada-991329274/)
 [![Logo do Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/wangeloow)
-[![Logo do Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wangeloow@gmail.com)
+[![Logo do Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelodonada@gmail.com)
 </div>
 
 <div align="center">
