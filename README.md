@@ -9,6 +9,7 @@
 <table align="right">
  <tr><td><a href="https://github.com/wAngeloow/wAngeloow/blob/main/README.md"><img src="./img/br_flag.png" alt="Bandeira do Brasil" width="17px"> Português</a></td></tr>
  <tr><td><a href="https://github.com/wAngeloow/wAngeloow/blob/main/README.english.md"><img src="./img/us_flag.png" alt="Bandeira dos EUA" width="17px"> English</a></td></tr>
+  <tr><td><a href="https://github.com/wAngeloow/wAngeloow/blob/main/README.français.md"><img src="./img/fra_flag.png" alt="Bandeira da França" width="17px"> English</a></td></tr>
 </table>
 <br>
 <br>
