@@ -51,3 +51,5 @@
 <div align="center" >
   <img alt="Imagem do footer" width="100%" src="https://github.com/wAngeloow/wAngeloow/blob/main/img/footer.png">
 </div>
+
+![snake gif](https://github.com/wAngeloow/wAngeloow/blob/output/github-contribution-grid-snake.gif)
