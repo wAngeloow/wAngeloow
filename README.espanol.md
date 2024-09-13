@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" alt="¡Bienvenido/a a mi perfil!" src="https://github.com/wAngeloow/wAngeloow/blob/main/img/header.png">
+  <img width="100%" alt="¡Bienvenido/a a mi perfil!" src="https://github.com/wAngeloow/wAngeloow/blob/main/img/header-ES.png">
 </div>
 
 <p align="center">
