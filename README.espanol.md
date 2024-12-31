@@ -17,7 +17,7 @@
 
 <p align="center">
   - 📚 Actualmente estoy estudiando Análisis y Desarrollo de Sistemas.<br>
-  - 💼 También estoy trabajando en proyectos personales para construir mi portafolio.<br>
+  - 💼 También estoy trabajando en proyectos personales para construir mi <a href="https://wangeloow.github.io/portfolio/">portafolio<a/>.<br>
   - 📧 No dudes en contactarme: <a href="mailto:angelodonada@gmail.com">angelodonada@gmail.com</a>
 </p>
 
