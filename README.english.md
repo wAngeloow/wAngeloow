@@ -17,7 +17,7 @@
 
 <p align="center">
   - 📚 I'm currently studying Systems Analysis and Development.<br>
-  - 💼 I'm also working on personal projects to build my portfolio.<br>
+  - 💼 I'm also working on personal projects to build my <a href="https://wangeloow.github.io/portfolio/">portfolio.<a/><br>
   - 📧 Feel free to reach out: <a href="mailto:angelodonada@gmail.com">angelodonada@gmail.com</a>
 </p>
 
