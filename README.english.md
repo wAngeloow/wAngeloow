@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+my+name+is+Angelo;I'm+19+years+old;And+I'm+Brazilian.;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=8000FF" alt="Animated text">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+my+name+is+Angelo;I'm+20+years+old;And+I'm+Brazilian.;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=8000FF" alt="Animated text">
 </p>
 
 <div align="center">
