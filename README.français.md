@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Bonjour,+visiteur!+:);Mon+nom+est+Angelo;C'est+un+plaisir+de+t'avoir+ici!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=8000FF" alt="Panneau animé">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Bonjour,+visiteur+:);Mon+nom+est+Angelo;C'est+un+plaisir+de+t'avoir+ici!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=8000FF" alt="Panneau animé">
 </p>
 
 <div align="center">
@@ -48,3 +48,4 @@
 <div align="center">
   <img width="100%" alt="Image du pied de page" src="https://github.com/wAngeloow/wAngeloow/blob/main/img/footer.png">
 </div>
+
