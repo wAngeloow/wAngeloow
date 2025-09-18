@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=¡Hola,+visitante!+:);Mi+nombre+es+Angelo;¡Es+un+placer+tenerte+aquí!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=8000FF" alt="Letrero animado">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hola,+visitante+:);Soy+Angelo;Que+bueno+que+viniste!;&font=Fira%20Code&center=true&width=390&height=50&duration=4000&pause=1000&color=8000FF" alt="Letrero animado">
 </p>
 
 <div align="center">
