@@ -2,10 +2,6 @@
   <img width="100%" alt="Bem-vindo/a ao meu perfil!" src="https://github.com/wAngeloow/wAngeloow/blob/main/img/header-PT.png">
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+visitante!+:);Meu+nome+é+Angelo;É+um+prazer+ter+você+aqui!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=8000FF" alt="Letreiro animado">
-</p>
-
 <div align="center">
   <a href="https://github.com/wAngeloow/wAngeloow/blob/main/README.md">PT</a> |
   <a href="https://github.com/wAngeloow/wAngeloow/blob/main/README.english.md">EN</a> |
