@@ -24,7 +24,6 @@
 <h2 align="center">Statistiques</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wAngeloow&hide_progress=false&theme=gotham&hide_border=true" width="273" alt="Langues Principales"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wAngeloow&theme=gotham" width="650" alt="Graphique des Statistiques"/>
 </div>
 
@@ -48,4 +47,5 @@
 <div align="center">
   <img width="100%" alt="Image du pied de page" src="https://github.com/wAngeloow/wAngeloow/blob/main/img/footer.png">
 </div>
+
 
