@@ -24,7 +24,6 @@
 <h2 align="center">Estatísticas</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wAngeloow&hide_progress=false&theme=gotham&hide_border=true" width="273" alt="Top Langs"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wAngeloow&theme=gotham" width="650" alt="Gráfico de estatísticas"/>
 </div>
 
